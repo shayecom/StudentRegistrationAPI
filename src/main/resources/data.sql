@@ -23,4 +23,5 @@ INSERT INTO course (name, start_date)
 VALUES ('Java', '2020-01-01'),
        ('Python', '2020-02-01'),
        ('QA', '2020-03-01'),
-       ('Cybersecurity', '2020-04-01')
+       ('Cybersecurity', '2020-04-01'),
+       ('DevOps', '2020-05-01');
